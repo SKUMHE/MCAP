@@ -1,5 +1,5 @@
 # About MCAP #
-### We at BitcoinGrowthFund have launched a token called MCAP. Our token uses the counter-party protocol for peer-to-peer transactions. All MCAP transactions will be recorded to the Bitcoin Blockchain to ensure immutability and transparency.
+### We at BitcoinGrowthFund have launched a token called MCAP. Our token uses the ERC 20 protocol for peer-to-peer transactions. All MCAP transactions will be recorded to the Bitcoin Blockchain to ensure immutability and transparency.
 BitcoinGrowthFund has planned to release a total of 100 million tokens and has only released 20% of the MCAP tokens as of now. The remaining 80% will eventually be released in the coming months.
 ## Where will the funds be invested? ##
 The funds raised from the sale of MCAP tokens will be invested in various mining projects and other ICOs.<br />
